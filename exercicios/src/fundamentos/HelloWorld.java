@@ -1,4 +1,4 @@
-package exercicios;
+package fundamentos;
 
 public class HelloWorld {
 
